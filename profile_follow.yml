@@ -1,0 +1,36 @@
+# Set one of these to true and the rest to false
+MODE:
+  LIKE_POPULAR: "TRUE"
+  LIKE_HASHTAGS: "FALSE"
+  LIKE_LOCATION: "FALSE"
+  TEST: "FALSE"
+# Type in a city and country, or city, state, country or long lat
+LOCATION:
+  CITY: "Dallas"
+  STATE: "Texas"
+  COUNTRY: "USA"
+  LONG: ""
+  LAT: ""
+SLEEP_START:
+  MIN: "10"
+  MAX: "15"
+SLEEP_PER_LIKE:
+  MIN: "7"
+  MAX: "15"
+SLEEP_PER_FOLLOW:
+  MIN: "30"
+  MAX: "60"
+LIKES:
+  TOTAL_MIN: "35"
+  TOTAL_MAX: "51"
+  PER_USER_MIN: "2"
+  PER_USER_MAX: "5"
+FOLLOW:
+  MIN: "20"
+  MAX: "50"
+CREDENTIALS:
+  GOOGLE_API_KEY: "AIzaSyBw1QG5GrY7Z5dPnZZLkcw3RTB2lp2b8WQ"
+  INSTAGRAM_CLIENT_ID: "595c6c618e66426191ac4e12110ca86a"
+  IG_USERNAME: ""
+  IG_PASSWORD: ""
+  IG_USER_ID: "1110446159"
